@@ -96,17 +96,17 @@ h2
     border-radius: 50%;
     border: 1px solid #600;
 }
-.align{
+.align {
     display:flex;
     justify-content: center;
     align-items: center;
 }
 footer{
-    background-color:#ff1a1a;
+    background-color:rgba(68, 158, 191, .7411764705882353);
     font-size: 90px;
 }
 .fotter{
-    background-color: #b30000;
+    background-color: rgba(39, 138, 174, .9);
     color: white;
     padding: 10px 6px 0px 170px;
     font-size: 14px;
