@@ -130,3 +130,20 @@ footer{
 {
     padding: 10px 10px;
 }
+
+.fotter a {
+    text-decoration: none;
+    color: white; 
+}
+.fotter a:hover, a:active {
+    font-weight: 600;
+    color:white;
+    transition: all 0.3s ease;
+}
+.fotter h4{
+    padding-bottom: 10px;
+}
+
+.logo {
+    font-size: 20px;
+}
