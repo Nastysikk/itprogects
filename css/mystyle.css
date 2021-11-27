@@ -102,7 +102,7 @@ h2
     align-items: center;
 }
 footer{
-    background-color:rgba(68, 158, 191, .7411764705882353);
+    background-color:rgba(68, 158, 191, .75);
     font-size: 90px;
 }
 .fotter{
@@ -136,14 +136,20 @@ footer{
     color: white; 
 }
 .fotter a:hover, a:active {
-    font-weight: 600;
-    color:white;
+    color:rgba(39, 138, 174, .9);
+    background-color: white;
     transition: all 0.3s ease;
 }
 .fotter h4{
     padding-bottom: 10px;
+    padding: 5px;
 }
 
 .logo {
     font-size: 20px;
+}
+
+.logo, .fotter h4 {
+     background-color: white;
+    color: rgba(39, 138, 174, .9);
 }
