@@ -106,7 +106,7 @@ footer{
     font-size: 90px;
 }
 .fotter{
-    background-color: rgba(39, 138, 174, .9);
+    background-color: rgba(39, 138, 174, .8);
     color: white;
     padding: 10px 6px 0px 170px;
     font-size: 14px;
@@ -136,7 +136,7 @@ footer{
     color: white; 
 }
 .fotter a:hover, a:active {
-    color:rgba(39, 138, 174, .9);
+    color:rgba(39, 138, 174, .8);
     background-color: white;
     transition: all 0.3s ease;
 }
@@ -150,6 +150,6 @@ footer{
 }
 
 .logo, .fotter h4 {
-     background-color: white;
-    color: rgba(39, 138, 174, .9);
+    background-color: white;
+    color: rgba(39, 138, 174, .8);
 }
