@@ -106,6 +106,10 @@ h2
     border-radius: 50%;
     border: 1px solid #600;
 }
+.sha2
+{
+    border: 1px solid #AF9A32;
+}
 .align {
     display:flex;
     justify-content: center;
